@@ -41,7 +41,8 @@ hr {
   float: right;
 }
 
-.footer {
+.footer,
+ul {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -57,7 +58,6 @@ hr {
 
 .img-projects {
   width: 27%;
-  jungheight: auto;
   order: 2;
 }
 
