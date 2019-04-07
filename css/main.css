@@ -67,3 +67,8 @@ hr {
 .img2 {
   margin-right: 5%;
 }
+
+h1,
+h2 {
+  font-family: "Roboto", sans-serif;
+}
