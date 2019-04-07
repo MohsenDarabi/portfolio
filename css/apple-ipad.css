@@ -11,15 +11,4 @@
   text-transform: uppercase;
   float: right;
   font-size: 1.8em;
-  align-self: flex-end;
-}
-
-.logo {
-  color: #00bfff;
-}
-
-.name-div {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
 }
