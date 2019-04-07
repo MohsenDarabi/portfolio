@@ -6,3 +6,9 @@
 .figure-width {
   width: 100%;
 }
+
+.my-name {
+  text-transform: uppercase;
+  float: right;
+  font-size: 1.8em;
+}
